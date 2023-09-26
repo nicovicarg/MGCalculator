@@ -4,7 +4,7 @@ import Linea from "./Linea";
 function Pantalla({memory}) {
   
   let style = {
-    backgroundColor: '#000000',
+    backgroundColor: '#012345',
     height: '50vh',
   
   }
