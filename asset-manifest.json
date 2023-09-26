@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nicovicarg/MGCalculator.git/static/css/main.073c9b0a.css",
-    "main.js": "/nicovicarg/MGCalculator.git/static/js/main.9748fd9c.js",
-    "static/js/787.b5bb5d35.chunk.js": "/nicovicarg/MGCalculator.git/static/js/787.b5bb5d35.chunk.js",
-    "index.html": "/nicovicarg/MGCalculator.git/index.html",
-    "main.073c9b0a.css.map": "/nicovicarg/MGCalculator.git/static/css/main.073c9b0a.css.map",
-    "main.9748fd9c.js.map": "/nicovicarg/MGCalculator.git/static/js/main.9748fd9c.js.map",
-    "787.b5bb5d35.chunk.js.map": "/nicovicarg/MGCalculator.git/static/js/787.b5bb5d35.chunk.js.map"
+    "main.css": "/MGCalculator/static/css/main.073c9b0a.css",
+    "main.js": "/MGCalculator/static/js/main.ae53edf4.js",
+    "static/js/787.b5bb5d35.chunk.js": "/MGCalculator/static/js/787.b5bb5d35.chunk.js",
+    "index.html": "/MGCalculator/index.html",
+    "main.073c9b0a.css.map": "/MGCalculator/static/css/main.073c9b0a.css.map",
+    "main.ae53edf4.js.map": "/MGCalculator/static/js/main.ae53edf4.js.map",
+    "787.b5bb5d35.chunk.js.map": "/MGCalculator/static/js/787.b5bb5d35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9748fd9c.js"
+    "static/js/main.ae53edf4.js"
   ]
 }
